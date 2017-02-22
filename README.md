@@ -1,11 +1,14 @@
 https://services.github.com/on-demand/downloads/fr/github-git-cheat-sheet.pdf
 
-Créer un nouveau commit :
+Create a new commit :
 
-- Créer un document ou modifier un existant
-- Commandes : git add lenomdemondocument.extension 
+- Create a document or modidy an existent
+- Commands : git add lenomdemondocument.extension
+ 
 git commit -m "blablabla"
-git push origin master (nom de la branche à pusher)
+
+git push origin master (branch's name to push)
+
 git status
 
 :)
